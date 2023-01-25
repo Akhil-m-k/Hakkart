@@ -1,0 +1,62 @@
+
+.top-bar{
+    background-color: #1346af;
+    color: #fff;
+}
+header{
+    border-bottom-width: 1px;
+    border-bottom-style: solid ;
+    border-bottom-color: rgb(215, 210, 210);
+    box-shadow: 5px 5px 5px rgba(99, 98, 98,0.1);
+}
+.logo-image{
+    height: 70px;
+    width: 260px;
+    margin-left: 60px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.nav-item{
+    padding-left: 20px;
+}
+.navbar-nav{
+    margin-left: 30px;
+}
+.heart-img{
+    width: 43px;
+    height: 40px;
+}
+div .card{
+    border: none;
+}
+div .product-img-div{
+    border: 3px solid Dodgerblue;
+
+}
+.product-img-div{
+    position: relative;
+}
+.offer-percentage{
+    position: absolute; 
+    background-color: #1346af;
+     color: white; 
+     top: 0px;
+     padding-top: 3px;
+     padding-bottom: 3px;
+     padding-left: 10px;
+     padding-right: 10px;
+     font-size: 13px;
+}
+footer{
+    background-color: #3a73e4;
+    margin-top: 50px;
+}
+footer p{
+    color: #fff;
+    padding-left: 5px;
+    padding-top: 4px;
+}
+footer img{
+    width: 50px;
+    height: 50px;
+}
